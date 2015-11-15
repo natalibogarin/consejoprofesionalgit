@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	background: url('../img/bg.png') repeat;
 }
@@ -9,4 +10,18 @@ body{
 	nav .nati {
 		background-color: red;
 	}
+=======
+body {
+    background-color: lightblue;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+
+    nav.nati {
+    	background-color: red;
+    }
+>>>>>>> d9d8176ff2d8556363e6ee434849fdacae8c69d8
 }
