@@ -19,6 +19,16 @@ class Sitio extends CI_Controller {
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
 
+	public function index(){
+
+		$this->load->view('templates/head');
+		$this->load->view('templates/header');
+		$this->load->view('templates/nav');
+		$this->load->view('sitio/home');
+		$this->load->view('templates/aside');
+		$this->load->view('templates/footer');
+	}
+
 	public function page($page='home'){
 
 		$this->load->view('templates/head');
