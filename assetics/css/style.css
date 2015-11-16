@@ -1,6 +1,11 @@
 body{
     background: url('../img/bg.png') repeat;
 }
+.hide-bullets {
+list-style:none;
+margin-left: -40px;
+margin-top:20px;
+}
 
 /*Fonts*/
 
@@ -254,6 +259,9 @@ body{
     nav.nati {
     	background-color: blue;
     }
+      .slide-text{
+        display: none;
+    }
 }
 
 /*Phone media queries*/
@@ -281,11 +289,17 @@ body{
         height: auto;
         margin-top: 8%;
     }
+    .slide-text{
+        display: none;
+    }
     .iconsejo{
         background: url('../img/icons/home-icon.svg') no-repeat;
-        width: 20%;
-        height: 100%;
+        background-size: 100%;
         float: left;
         color: #fff;
+        width: 7%;
+        height: 20px;
+        margin-right: 2%;
     }
+
 }

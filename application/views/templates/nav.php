@@ -14,6 +14,7 @@
     <!-- Content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
+      	<li class="active"><a href="#">Inicio <span class="sr-only">(current)</span></a></li>
       	<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
           <div class="iconsejo"></div> El Consejo <span class="caret"></span></a>
@@ -22,7 +23,7 @@
             <li><a href="#">Autoridades</a></li>
           </ul>
         </li>
-        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link <span class="sr-only">(current)</span></a></li>
         <li><a href="#">Link</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
