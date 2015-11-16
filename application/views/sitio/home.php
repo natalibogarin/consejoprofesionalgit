@@ -1,5 +1,5 @@
 <!-- content -->
-<section>
+<section class="container">
 	
 </section>
 <!-- /content -->
