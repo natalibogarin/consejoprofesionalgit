@@ -246,16 +246,10 @@ margin-top:20px;
         background: #003366;
         height: 200px;
     }
-    address{
-
-    }
-    nav .nati {
-		background-color:red;
-	}
 }
 
 /*Tablet media queries*/
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
     nav.nati {
     	background-color: blue;
     }
