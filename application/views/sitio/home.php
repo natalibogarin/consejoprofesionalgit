@@ -1,6 +1,7 @@
  <!-- content -->
-<section class="container">
-<div class="content col-xs-12 col-md-9 col-lg-9">
+<section class="container-fluid">
+<div class="row">
+<div class="content col-xs-12 col-md-8 col-lg-8">
     <!-- Slider -->
     <div class="container">
         <div id="main_area">
@@ -87,8 +88,8 @@
     <!--/Slider-->
     <!--Blog articles-->
     <div class="blog-content">
-    <div id="categories-list" class="row list-group col-xs-12 col-md-10 col-lg-10">
-        <article class="item  col-xs-12 col-md-4 col-lg-4">
+    <div id="categories-list" class="row list-group col-xs-12 col-md-12 col-lg-12">
+        <article class="item  col-xs-12 col-md-3 col-lg-3">
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
@@ -97,18 +98,14 @@
                     <p class="group inner list-group-item-text">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
                     <div class="row">
-                        <div class="col-xs-12 col-md-4">
-                            <p class="lead">
-                                $21.000</p>
-                        </div>
-                        <div class="col-xs-12 col-md-4">
-                            <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                        <div class="col-xs-12 col-md-12 col-lg-12">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Add to cart</a>
                         </div>
                     </div>
                 </div>
             </div>
         </article>
-        <article class="item  col-xs-12 col-md-4 col-lg-4">
+        <article class="item  col-xs-12 col-md-3 col-lg-3">
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
@@ -117,18 +114,14 @@
                     <p class="group inner list-group-item-text">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
                     <div class="row">
-                        <div class="col-xs-12 col-md-4">
-                            <p class="lead">
-                                $21.000</p>
-                        </div>
-                        <div class="col-xs-12 col-md-4">
-                            <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                        <div class="col-xs-12 col-md-12 col-lg-12">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Add to cart</a>
                         </div>
                     </div>
                 </div>
             </div>
         </article>
-        <article class="item  col-xs-12 col-md-4 col-lg-4">
+        <article class="item  col-xs-12 col-md-3 col-lg-3">
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
@@ -137,18 +130,14 @@
                     <p class="group inner list-group-item-text">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
                     <div class="row">
-                        <div class="col-xs-12 col-md-4">
-                            <p class="lead">
-                                $21.000</p>
-                        </div>
-                        <div class="col-xs-12 col-md-4">
-                            <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                        <div class="col-xs-12 col-md-3">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Add to cart</a>
                         </div>
                     </div>
                 </div>
             </div>
         </article>
-        <article class="item  col-xs-12 col-md-4 col-lg-4">
+        <article class="item  col-xs-12 col-md-3 col-lg-3">
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
@@ -157,18 +146,14 @@
                     <p class="group inner list-group-item-text">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
                     <div class="row">
-                        <div class="col-xs-12 col-md-4">
-                            <p class="lead">
-                                $21.000</p>
-                        </div>
-                        <div class="col-xs-12 col-md-4">
-                            <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                        <div class="col-xs-12 col-md-12 col-lg-12">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Add to cart</a>
                         </div>
                     </div>
                 </div>
             </div>
         </article>
-        <article class="item  col-xs-12 col-md-4 col-lg-4">
+        <article class="item  col-xs-12 col-md-3 col-lg-3">
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
@@ -177,12 +162,8 @@
                     <p class="group inner list-group-item-text">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
                     <div class="row">
-                        <div class="col-xs-12 col-md-4">
-                            <p class="lead">
-                                $21.000</p>
-                        </div>
-                        <div class="col-xs-12 col-md-4">
-                            <a class="btn btn-success" href="http://www.jquery2dotnet.com">Add to cart</a>
+                        <div class="col-xs-12 col-md-12 col-lg-12">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Add to cart</a>
                         </div>
                     </div>
                 </div>
