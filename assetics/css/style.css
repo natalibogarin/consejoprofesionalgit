@@ -242,17 +242,60 @@ margin-top:20px;
 
 @media screen and (min-width: 1200px){
     header{
-        margin-top: 0.5%;
+        margin-top: 1.1%;
         background: #003366;
         height: 200px;
+    }
+    .logo{
+        background: url('../img/bg.png') repeat;
+        width: auto;
+        height: 50%;
+        margin-right: 2.2%;
+        float: right;
+    }
+    .logo img{
+        margin-left: -1px;
+        margin-top: -8px;
+    }
+    .name{
+        font-family: bebas_neuebook;
+        font-size: 2.5em;
+        color: #FFFFFF;
+        float: right;
+        width: 80%;
+        height: auto;
+        margin-top: 0%;
+    }
+    .address{
+        background: url('../img/bg_address.png') no-repeat;
+        background-size: 28%;
+        width: auto;
+        height: 50%;
+        font-family: stonesansregular;
+        padding-left: 12%;
+        padding-top: 1%;
+        color: #FFFFFF;
+    }
+    .content{
+        float: left;
+    }
+    .slide-text{
+        margin-left: -5px;
+        background-color: #FFFFFF;
+    }
+    .blog-content{
+        margin-top: 2%;
+        margin-left: 1.5%;
+    }
+    aside{
+        float: right;
+        margin: 0 1.5%;
+        width: 30%;
     }
 }
 
 /*Tablet media queries*/
 @media screen and (max-width: 800px) {
-    nav.nati {
-    	background-color: blue;
-    }
       .slide-text{
         display: none;
     }
@@ -272,6 +315,9 @@ margin-top:20px;
         margin-left: 4%;
         background-position: left;
         float: left;
+    }
+    .logo img{
+        display: none;
     }
     .name{
         font-family: bebas_neuebook;
@@ -294,6 +340,9 @@ margin-top:20px;
         width: 7%;
         height: 20px;
         margin-right: 2%;
+    }
+    address{
+        display: none;
     }
 
 }
