@@ -446,6 +446,29 @@ margin-top:20px;
     .list-consejo{
         color: #003366;
     }
+    .header-autoridades{
+        color: #003366;
+        font-family: stonesansregular;
+        font-weight: bold;
+        text-align: center;
+    }
+    .autoridades{
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 1%;
+    }
+    .table-autoridades{
+      background: #00cccc;  
+      font-family: stonesansregular;
+    }
+    .table-cargo{
+      background: #003366;  
+      font-family: stonesans-semiboldregular;
+      color: #ffffff;
+    }
+    .table-vocales{
+        border-bottom: 1px dotted #fff;
+    }
 }
 
 /*Tablet media queries*/
