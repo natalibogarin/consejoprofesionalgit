@@ -6,6 +6,14 @@
 		<article class="btn-aside"><a href="#"><p class="txt-aside">Enlaces de interés</p></a></article>
 		<article class="btn-aside"><a href="#"><p class="txt-aside">Novel Iuris</p></a></article>
     </section>
+    <section class="row">
+    	<article class="side-ausp">
+    		<img src="http://placehold.it/300x248&text=Auspicio" alt="">
+    	</article>
+    	<article class="side-ausp">
+    		<img src="http://placehold.it/300x600&text=Auspicio" alt="">
+    	</article>   	
+    </section>
 </aside>
 <!-- /aside content -->
 </div>

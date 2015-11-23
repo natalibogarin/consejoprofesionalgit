@@ -1,7 +1,8 @@
 <!-- footer -->
 <footer>
-	<div>
-		
+	<div class="foot-text">
+		<p>Arbo y Blanco 28 - Resistencia - Chaco  -  Argentina - Telefax: 0362 - 4430604 -<br>
+		Todos los derechos reservados CopyRight © Consejo Profesional de Abogados y Procuradores de Resistencia 2015</p>
 	</div>
 </footer>
 <!-- footer -->

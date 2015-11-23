@@ -14,13 +14,13 @@
     <!-- Content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-      	<li class="active"><a href="#">Inicio <span class="sr-only">(current)</span></a></li>
+      	<li class="active"><a href="<?php echo base_url()?>">Inicio <span class="sr-only">(current)</span></a></li>
       	<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
           <div class="iconsejo"></div> El Consejo <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Quienes Somos</a></li>
-            <li><a href="#">Autoridades</a></li>
+            <li><a href="<?php echo base_url()?>index.php/sitio/page/quienesomos">Quienes Somos</a></li>
+            <li><a href="<?php echo base_url()?>index.php/sitio/page/autoridades">Autoridades</a></li>
           </ul>
         </li>
         <li><a href="#">Novedades <span class="sr-only">(current)</span></a></li>
