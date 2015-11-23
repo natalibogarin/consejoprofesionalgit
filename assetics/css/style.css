@@ -283,6 +283,14 @@ margin-top:20px;
         margin-left: -15px;
         background-color: #FFFFFF;
         height: 255px;
+        box-shadow: 5px 3px 4px #ccc;
+    }
+    .title-slide{
+        font-family: stonesansregular;
+    }
+    .sub-text{
+        color:#ccc;
+        font-size: 0.7em;
     }
     .blog-content{
         margin-top: 2%;
@@ -293,6 +301,23 @@ margin-top:20px;
         min-height: 1px;
         padding-right: 0px;
         padding-left: 15px;
+    }
+    .art-header{
+        background: #003366;
+        width: 100%;
+        height: auto;
+        color: #ffffff;
+    }
+    .art-icon{
+        float: left;
+        padding: 2%;
+    }
+    .art-title{
+        font-size: 1.2em;
+        padding: 3%;
+    }
+    .art-detail{
+        text-align: justify;
     }
     .btn-news{
         width: 100%;

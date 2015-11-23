@@ -10,7 +10,7 @@
                     <div class="col-xs-12 col-sm-12 col-lg-12" id="slider">
                         <!-- Top part of the slider -->
                         <div class="row">
-                            <div class="col-xs-12 col-sm-7 col-lg-7" id="carousel-bounding-box">
+                            <div class="col-xs-12 col-sm-7 col-lg-7" id="carousel-bounding-box" style="box-shadow: 15px 2px 4px #ccc;">
                                 <div class="carousel slide" id="myCarousel">
                                     <!-- Carousel items -->
                                     <div class="carousel-inner">
@@ -45,9 +45,9 @@
 
                             <div id="slide-content" style="display: none;">
                                 <div id="slide-content-0">
-                                    <h2>Slider One</h2>
-                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                                    <h2 class="title-slide">Slider One</h2>
                                     <p class="sub-text">20 de Octubre</p>
+                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
                                     <div class="row">
                                      <div class="col-xs-12 col-md-12 col-lg-12">
                                         <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
@@ -57,32 +57,57 @@
 
                                 <div id="slide-content-1">
                                     <h2>Slider Two</h2>
-                                    <p>Lorem Ipsum Dolor</p>
-                                    <p class="sub-text">October 24 2014 - <a href="#">Read more</a></p>
+                                    <p class="sub-text">20 de Octubre</p>
+                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                                    <div class="row">
+                                     <div class="col-xs-12 col-md-12 col-lg-12">
+                                        <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                                      </div>
+                                    </div>
                                 </div>
 
                                 <div id="slide-content-2">
                                     <h2>Slider Three</h2>
-                                    <p>Lorem Ipsum Dolor</p>
-                                    <p class="sub-text">October 24 2014 - <a href="#">Read more</a></p>
+                                    <p class="sub-text">20 de Octubre</p>
+                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                                    <div class="row">
+                                     <div class="col-xs-12 col-md-12 col-lg-12">
+                                        <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                                      </div>
+                                    </div>
                                 </div>
 
                                 <div id="slide-content-3">
                                     <h2>Slider Four</h2>
-                                    <p>Lorem Ipsum Dolor</p>
-                                    <p class="sub-text">October 24 2014 - <a href="#">Read more</a></p>
+                                    <p class="sub-text">20 de Octubre</p>
+                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                                    <div class="row">
+                                     <div class="col-xs-12 col-md-12 col-lg-12">
+                                        <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                                      </div>
+                                    </div>
                                 </div>
 
                                 <div id="slide-content-4">
                                     <h2>Slider Five</h2>
-                                    <p>Lorem Ipsum Dolor</p>
-                                    <p class="sub-text">October 24 2014 - <a href="#">Read more</a></p>
+                                   <p class="sub-text">20 de Octubre</p>
+                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                                    <div class="row">
+                                     <div class="col-xs-12 col-md-12 col-lg-12">
+                                        <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                                      </div>
+                                    </div>
                                 </div>
 
                                 <div id="slide-content-5">
                                     <h2>Slider Six</h2>
-                                    <p>Lorem Ipsum Dolor</p>
-                                    <p class="sub-text">October 24 2014 - <a href="#">Read more</a></p>
+                                    <p class="sub-text">20 de Octubre</p>
+                                    <p class="text-slide"> El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                                    <div class="row">
+                                     <div class="col-xs-12 col-md-12 col-lg-12">
+                                        <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                                      </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -96,12 +121,50 @@
     <div id="categories-list" class="row list-group col-xs-12 col-md-12 col-lg-12">
         <article class="item  col-xs-12 col-md-4 col-lg-4">
             <div class="thumbnail">
-                <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
+                <div class="art-header">
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
+                    <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
+                </div>
                 <div class="caption">
-                    <h4 class="group inner list-group-item-heading">
-                        Product title</h4>
-                    <p class="group inner list-group-item-text">
+                    <p class="group inner list-group-item-text art-detail">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                    <br>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12 col-lg-12">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article class="item  col-xs-12 col-md-4 col-lg-4">
+            <div class="thumbnail">
+                <div class="art-header">
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/institutos-icon.svg"></object>
+                    <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
+                </div>
+                <div class="caption">
+                    <p class="group inner list-group-item-text art-detail">
+                        El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                    <br>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-12 col-lg-12">
+                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article class="item  col-xs-12 col-md-4 col-lg-4">
+            <div class="thumbnail">
+                <div class="art-header">
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/newslegislativas-icon.svg"></object>
+                    <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
+                </div>
+                <div class="caption">
+                    <p class="group inner list-group-item-text art-detail">
+                        El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                    <br>
                     <div class="row">
                         <div class="col-xs-12 col-md-12 col-lg-12">
                             <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
@@ -114,10 +177,10 @@
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
-                    <h4 class="group inner list-group-item-heading">
-                        Product title</h4>
-                    <p class="group inner list-group-item-text">
+                    <h4 class="group inner list-group-item-heading art-title">Product title</h4>
+                    <p class="group inner list-group-item-text art-detail">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                    <br>
                     <div class="row">
                         <div class="col-xs-12 col-md-12 col-lg-12">
                             <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
@@ -130,10 +193,10 @@
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
-                    <h4 class="group inner list-group-item-heading">
-                        Product title</h4>
-                    <p class="group inner list-group-item-text">
+                    <h4 class="group inner list-group-item-heading art-title">Product title</h4>
+                    <p class="group inner list-group-item-text art-detail">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                    <br>
                     <div class="row">
                         <div class="col-xs-12 col-md-12 col-lg-12">
                             <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
@@ -146,26 +209,10 @@
             <div class="thumbnail">
                 <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
                 <div class="caption">
-                    <h4 class="group inner list-group-item-heading">
-                        Product title</h4>
-                    <p class="group inner list-group-item-text">
+                    <h4 class="group inner list-group-item-heading art-title">Product title</h4>
+                    <p class="group inner list-group-item-text art-detail">
                         El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
-                    <div class="row">
-                        <div class="col-xs-12 col-md-12 col-lg-12">
-                            <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </article>
-        <article class="item  col-xs-12 col-md-4 col-lg-4">
-            <div class="thumbnail">
-                <img class="group list-group-image" src="http://placehold.it/400x250/000/fff" alt="" />
-                <div class="caption">
-                    <h4 class="group inner list-group-item-heading">
-                        Product title</h4>
-                    <p class="group inner list-group-item-text">
-                        El Consejo Profesional de Abogados y Procuradores de la Primera Circunscripción Judicial del Chaco manifiesta su disconformidad con el tratamiento...</p>
+                    <br>
                     <div class="row">
                         <div class="col-xs-12 col-md-12 col-lg-12">
                             <a class="btn btn-news" href="http://www.jquery2dotnet.com">Leer más</a>
