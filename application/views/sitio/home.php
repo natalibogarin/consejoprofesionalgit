@@ -3,14 +3,14 @@
 <div class="row">
 <div class="content col-xs-12 col-md-9 col-lg-9">
     <!-- Slider -->
-    <div class="container">
+    <div class="container-fluid">
         <div id="main_area">
                 <!-- Slider -->
-                <div class="row">
+                <div class="row-fluid slider">
                     <div class="col-xs-12 col-sm-12 col-lg-12" id="slider">
                         <!-- Top part of the slider -->
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-7 col-lg-7" id="carousel-bounding-box" style="box-shadow: 15px 2px 4px #ccc;">
+                        <div class="row-fluid">
+                            <div class="col-xs-12 col-sm-9 col-lg-7" id="carousel-bounding-box" style="box-shadow: 15px 2px 4px #ccc;">
                                 <div class="carousel slide" id="myCarousel">
                                     <!-- Carousel items -->
                                     <div class="carousel-inner">
@@ -41,7 +41,7 @@
                                     </div>
                             </div>
 
-                            <div class="slide-text col-md-3 col-lg-3" id="carousel-text"></div>
+                            <div class="slide-text col-md-3 col-lg-5" id="carousel-text"></div>
 
                             <div id="slide-content" style="display: none;">
                                 <div id="slide-content-0">
@@ -225,7 +225,7 @@
     </div>
 <!--/Blog articles-->
 <div class="row-fluid">
-    <article class="logo-footer col-sm-3 col-lg-3"> </article>
+    <article class="logo-footer col-sm-3 col-lg-2"> </article>
     <div class="row">
         <p class="title-prefoot">CONSEJO PROFESIONAL DE ABOGADOS Y PROCURADORES DE RESISTENCIA</p>
         <article class="pre-footer col-sm-3 col-lg-3"> 
@@ -237,7 +237,7 @@
                 <li><a href="" title="">Institutos</a></li>
             </ul>
         </article>
-        <article class=" pre-footer col-sm-2 col-lg-2"> 
+        <article class=" pre-footer col-sm-2 col-lg-1"> 
             Seguinos en:
             <a href="" title=""><div class="logo-fb"></div></a>
             <a href="" title=""><div class="logo-tw"></div></a>

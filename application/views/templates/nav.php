@@ -24,8 +24,15 @@
           </ul>
         </li>
         <li><a href="<?php echo base_url()?>index.php/sitio/page/novedades">Novedades <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Cursos</a></li>
-        <li><a href="#">Novedades Legislativas</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+          <div class="iconsejo"></div> Cursos <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="<?php echo base_url()?>index.php/sitio/page/quienesomos">Quienes Somos</a></li>
+            <li><a href="<?php echo base_url()?>index.php/sitio/page/autoridades">Autoridades</a></li>
+          </ul>
+        </li>
+        <li><a href="<?php echo base_url()?>index.php/sitio/page/novedades-legislativas">Novedades Legislativas</a></li>
         <li><a href="#">Institutos</a></li>
         <li><a href="#">Contacto</a></li>
       </ul>

@@ -31,29 +31,29 @@
         </article>
     </div>
     <div class="row-fluid">
-        <article class="logo-footer col-sm-3 col-lg-3"> </article>
-        <div class="row">
-            <p class="title-prefoot">CONSEJO PROFESIONAL DE ABOGADOS Y PROCURADORES DE RESISTENCIA</p>
-            <article class="pre-footer col-sm-3 col-lg-3"> 
-                <ul>
-                    <li><a href="" title="">El Consejo</a></li>
-                    <li><a href="" title="">Novedades</a></li>
-                    <li><a href="" title="">Cursos</a></li>
-                    <li><a href="" title="">Novedades Legislativas</a></li>
-                    <li><a href="" title="">Institutos</a></li>
-                </ul>
-            </article>
-            <article class=" pre-footer col-sm-2 col-lg-2"> 
-                Seguinos en:
-                <a href="" title=""><div class="logo-fb"></div></a>
-                <a href="" title=""><div class="logo-tw"></div></a>
-            </article>
-            <article class=" pre-footer col-sm-3 col-lg-3"> 
-                Auspician:
+    <article class="logo-footer col-sm-3 col-lg-2"> </article>
+    <div class="row">
+        <p class="title-prefoot">CONSEJO PROFESIONAL DE ABOGADOS Y PROCURADORES DE RESISTENCIA</p>
+        <article class="pre-footer col-sm-3 col-lg-3"> 
+            <ul>
+                <li><a href="" title="">El Consejo</a></li>
+                <li><a href="" title="">Novedades</a></li>
+                <li><a href="" title="">Cursos</a></li>
+                <li><a href="" title="">Novedades Legislativas</a></li>
+                <li><a href="" title="">Institutos</a></li>
+            </ul>
+        </article>
+        <article class=" pre-footer col-sm-2 col-lg-1"> 
+            Seguinos en:
+            <a href="" title=""><div class="logo-fb"></div></a>
+            <a href="" title=""><div class="logo-tw"></div></a>
+        </article>
+        <article class=" pre-footer col-sm-3 col-lg-3"> 
+            Auspician:
 
-            </article>
-        </div>
+        </article>
     </div>
+</div>
 
 </div>
 

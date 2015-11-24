@@ -3,7 +3,7 @@
 <div class="row">
 <div class="content col-xs-12 col-md-9 col-lg-9">
     <div class="row">
-        <div class="header-consejo">
+        <div class="header-news">
             <object class="header-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
             <h4 class="header-title">Modificación Ley de Honorarios Profesionales</h4>
         </div>

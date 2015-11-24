@@ -4,8 +4,8 @@
 <div class="content col-xs-12 col-md-9 col-lg-9">
     <div class="row">
         <div class="header-news">
-            <object class="header-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
-            <h4 class="header-title">Novedades</h4>
+            <object class="header-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/newslegislativas-icon.svg"></object>
+            <h4 class="header-title">Novedades Legislativas</h4>
         </div>
             <!--Blog articles-->
     <div class="blog-content">
@@ -13,7 +13,7 @@
         <article class="item  col-xs-12 col-md-4 col-lg-4">
             <div class="thumbnail">
                 <div class="art-header">
-                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/newslegislativas-icon.svg"></object>
                     <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
                 </div>
                 <div class="caption">
@@ -31,7 +31,7 @@
         <article class="item  col-xs-12 col-md-4 col-lg-4">
             <div class="thumbnail">
                 <div class="art-header">
-                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/newslegislativas-icon.svg"></object>
                     <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
                 </div>
                 <div class="caption">
@@ -49,7 +49,7 @@
         <article class="item  col-xs-12 col-md-4 col-lg-4">
             <div class="thumbnail">
                 <div class="art-header">
-                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/newslegislativas-icon.svg"></object>
                     <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
                 </div>
                 <div class="caption">
@@ -67,7 +67,7 @@
         <article class="item  col-xs-12 col-md-4 col-lg-4">
             <div class="thumbnail">
                 <div class="art-header">
-                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/news-icon.svg"></object>
+                    <object class="art-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/newslegislativas-icon.svg"></object>
                     <h4 class="group inner list-group-item-heading art-title">Anteproyecto Ley Reforma Código Procesal Civil y Comercial del Chaco</h4>
                 </div>
                 <div class="caption">
@@ -195,7 +195,7 @@
     </div>
     <div class="col-sm-4 col-lg-4"></div>
 </div>
-<div class="row-fluid">
+    <div class="row-fluid">
     <article class="logo-footer col-sm-3 col-lg-2"> </article>
     <div class="row">
         <p class="title-prefoot">CONSEJO PROFESIONAL DE ABOGADOS Y PROCURADORES DE RESISTENCIA</p>
