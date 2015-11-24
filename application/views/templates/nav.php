@@ -23,7 +23,7 @@
             <li><a href="<?php echo base_url()?>index.php/sitio/page/autoridades">Autoridades</a></li>
           </ul>
         </li>
-        <li><a href="#">Novedades <span class="sr-only">(current)</span></a></li>
+        <li><a href="<?php echo base_url()?>index.php/sitio/page/novedades">Novedades <span class="sr-only">(current)</span></a></li>
         <li><a href="#">Cursos</a></li>
         <li><a href="#">Novedades Legislativas</a></li>
         <li><a href="#">Institutos</a></li>
