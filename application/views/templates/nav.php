@@ -36,7 +36,7 @@
         <li><a href="#">Institutos</a></li>
         <li><a href="#">Contacto</a></li>
       </ul>
-      <form class="navbar-form navbar-right" role="search">
+      <form class="navbar-form search navbar-right" role="search">
                 <div class="input-group">
                     <input type="text" class="form-control" placeholder="Buscar" name="q">
                     <div class="input-group-btn">

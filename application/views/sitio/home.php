@@ -1,10 +1,9 @@
  <!-- content -->
-<section class="container-fluid">
+<section class="container-fluid center">
 <div class="row">
 <div class="content col-xs-12 col-md-9 col-lg-9">
     <!-- Slider -->
     <div class="container-fluid">
-        <div id="main_area">
                 <!-- Slider -->
                 <div class="row-fluid slider">
                     <div class="col-xs-12 col-sm-12 col-lg-12" id="slider">
@@ -113,7 +112,6 @@
                         </div>
                     </div>
                 </div>
-        </div>
     </div>
     <!--/Slider-->
     <!--Blog articles-->
@@ -225,7 +223,7 @@
     </div>
 <!--/Blog articles-->
 <div class="row-fluid">
-    <article class="logo-footer col-sm-3 col-lg-2"> </article>
+    <article class="logo-footer col-sm-3 col-lg-3"> </article>
     <div class="row">
         <p class="title-prefoot">CONSEJO PROFESIONAL DE ABOGADOS Y PROCURADORES DE RESISTENCIA</p>
         <article class="pre-footer col-sm-3 col-lg-3"> 
@@ -237,7 +235,7 @@
                 <li><a href="" title="">Institutos</a></li>
             </ul>
         </article>
-        <article class=" pre-footer col-sm-2 col-lg-1"> 
+        <article class=" pre-footer col-sm-2 col-lg-2"> 
             Seguinos en:
             <a href="" title=""><div class="logo-fb"></div></a>
             <a href="" title=""><div class="logo-tw"></div></a>
