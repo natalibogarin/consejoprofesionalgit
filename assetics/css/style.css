@@ -240,7 +240,7 @@ margin-top:20px;
 
 /*Large screens desktop media queries*/
 
-@media screen and (min-device-width: 1400px) and (max-device-width: 2000px){
+@media screen and (min-device-width: 1800px) and (max-device-width: 2000px){
     header{
         margin-top: 0.8%;
         background: #003366;
@@ -360,7 +360,7 @@ margin-top:20px;
         width: 100%;
         height: 200px;
         margin-left: 5%;
-        background-position: middle;
+        background-position: center;
     }
     .title-prefoot{
         color: #003366;
@@ -385,6 +385,9 @@ margin-top:20px;
     .pre-footer ul li a:hover{
         font-weight: bold;
     }
+    .follow{
+        float: left;
+    }
     .logo-fb{
         background: url('../img/logo-fb.png') no-repeat;
         background-position: center;
@@ -393,13 +396,21 @@ margin-top:20px;
         float: left;
         margin-top: 20%;
     }
+    .align-fb{
+        margin-top: 10%;
+        float: left;
+        margin-left: -75px;
+    }
+    .align-tw{
+        margin-top: 9%;
+    }
     .logo-tw{
         background: url('../img/logo-tw.png') no-repeat;
         background-position: center;
         width: 50%;
         height: 40px;
         float: left;
-        margin-top: 20%;
+        margin-top: -18%;
     }
     footer{
         background: url('../img/bg_footer.png') no-repeat;
@@ -535,6 +546,8 @@ margin-top:20px;
     }
 
 }
+
+@media screen and (min-device-width: 1300px) and (max-device-width: 1700px){
     header{
         margin-top: 1.1%;
         background: #003366;
@@ -576,7 +589,7 @@ margin-top:20px;
     .slide-text{
         margin-left: -15px;
         background-color: #FFFFFF;
-        height: 193px;
+        height: 200px;
         box-shadow: 5px 3px 4px #ccc;
     }
     .title-slide{
@@ -678,18 +691,27 @@ margin-top:20px;
     .logo-fb{
         background: url('../img/logo-fb.png') no-repeat;
         background-position: center;
-        width: 50%;
+        width: 115%;
         height: 40px;
         float: left;
-        margin-top: 20%;
+        margin-top: 85%;
     }
     .logo-tw{
         background: url('../img/logo-tw.png') no-repeat;
         background-position: center;
-        width: 50%;
+        width: 115%;
         height: 40px;
         float: left;
         margin-top: 20%;
+    }
+    .align-fb{
+        margin-top: 10%;
+        float: left;
+        margin-left: -75px;
+    }
+    .align-tw{
+        margin-top: 11%;
+        margin-left: 45%;
     }
     footer{
         background: url('../img/bg_footer.png') no-repeat;
@@ -771,3 +793,4 @@ margin-top:20px;
         margin-bottom: 5%;
         background: #ffffff;
     }
+}
