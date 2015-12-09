@@ -1,7 +1,7 @@
  <!-- content -->
-<section class="container-fluid center">
+<section class="container-fluid">
 <div class="row">
-<div class="content col-xs-12 col-md-9 col-lg-9">
+<div class="content col-xs-12 col-md-9 col-lg-9 ">
     <!-- Slider -->
     <div class="container-fluid">
                 <!-- Slider -->
@@ -236,9 +236,11 @@
             </ul>
         </article>
         <article class=" pre-footer col-sm-2 col-lg-2"> 
-            Seguinos en:
-            <a href="" title=""><div class="logo-fb"></div></a>
-            <a href="" title=""><div class="logo-tw"></div></a>
+            <div class="follow">Seguinos en:</div>
+            <div class="row-fluid">
+            <div class="col-sm-6 col-lg-6 align-fb"><a href="" title=""><div class="logo-fb"></div></a></div>
+            <div class="col-sm-6 col-lg-6 align-tw"><a href="" title=""><div class="logo-tw"></div></a></div>
+            </div>
         </article>
         <article class=" pre-footer col-sm-3 col-lg-3"> 
             Auspician:

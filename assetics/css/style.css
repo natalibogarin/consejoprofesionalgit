@@ -240,7 +240,7 @@ margin-top:20px;
 
 /*Large screens desktop media queries*/
 
-@media screen and (min-device-width: 1800px) and (max-device-width: 2000px){
+@media screen and (min-device-width: 1800px) and (max-device-width: 2200px){
     header{
         margin-top: 0.8%;
         background: #003366;
@@ -711,7 +711,9 @@ margin-top:20px;
     }
     .align-tw{
         margin-top: 15%;
-        margin-left: 45%;
+        -moz-margin-left: 45%;
+            margin-left:0% ;
+        
     }
     footer{
         background: url('../img/bg_footer.png') no-repeat;
