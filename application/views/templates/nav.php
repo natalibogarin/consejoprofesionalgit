@@ -14,10 +14,11 @@
     <!-- Content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-      	<li class="active"><a href="<?php echo base_url()?>">Inicio <span class="sr-only">(current)</span></a></li>
+      	<li class="active">
+        <a href="<?php echo base_url()?>"> Inicio</a></li>
       	<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-          <div class="iconsejo"></div> El Consejo <span class="caret"></span></a>
+          <i class="fa fa-university fa-lg"></i> El Consejo <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="<?php echo base_url()?>index.php/sitio/page/quienesomos">Quienes Somos</a></li>
             <li><a href="<?php echo base_url()?>index.php/sitio/page/autoridades">Autoridades</a></li>
@@ -33,8 +34,8 @@
           </ul>
         </li>
         <li><a href="<?php echo base_url()?>index.php/sitio/page/novedades-legislativas">Novedades Legislativas</a></li>
-        <li><a href="#">Institutos</a></li>
-        <li><a href="#">Contacto</a></li>
+        <li><a href="<?php echo base_url()?>index.php/sitio/page/institutos">Institutos</a></li>
+        <li><a href="<?php echo base_url()?>index.php/sitio/page/contacto">Contacto</a></li>
       </ul>
       <form class="navbar-form search navbar-right" role="search">
                 <div class="input-group">

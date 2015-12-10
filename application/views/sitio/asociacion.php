@@ -17,18 +17,19 @@
                 <li>También podrán ser socios los Escribanos inscriptos en la matrícula de Procuradores y que hagan de la procuración su profesión habitual.</li>
                 <li>Completar y presentar la ficha de solicitud de asociación.</li>
             </ul>
-            </article>
             <div class="row-fluid"> 
                     <div class="col-xs-1 col-sm-1 col-lg-1"></div>
                     <div class="col-xs-12 col-sm-6 col-lg-4" style="background:#ccc;">
-                        Facebook:
+                        Compartir:
                     </div>
                     <div class="col-xs-12 col-sm-6 col-lg-4" style="background:#ddd;">
-                        Mail:
+                        Descargar Formulario de inscripción:
                     </div>
                      <div class="col-xs-2 col-sm-2 col-lg-2"></div>
             </div>
-
+            <br> <hr>
+            </article>
+             <br><br>
         <div class="header-consejo">
             <object class="header-icon" type="image/svg+xml" data="<?php echo base_url()?>assetics/img/icons/white/consejo-icon.svg"></object>
             <h4 class="header-title">MATRICULACIÓN - Requisitos para la inscripción</h4>
@@ -63,8 +64,22 @@
                     <p>Art. 3) El Fiscal General estará equiparado en jerarquía, condiciones para su designación, remuneración e incompatibilidades a las que disponga las Constitución Provincial y las leyes para el Juez de Cámara.</p>
                     <p> Art.4) Los Fiscales Adjuntos estarán equiparados en jerarquías, condiciones para su designación, remuneraciones e incompatibilidades a los Jueces de Primera Instancia</p>
                 </p>
+            </p>
+            <div class="row-fluid"> 
+            <div class="col-xs-1 col-sm-1 col-lg-1"></div>
+                <div class="col-xs-12 col-sm-6 col-lg-4" style="background:#ccc;">
+                    Compartir:
+                </div>
+                <div class="col-xs-12 col-sm-6 col-lg-4" style="background:#ddd;">
+                    Descargar Formulario de inscripción:
+                </div>
+            <div class="col-xs-2 col-sm-2 col-lg-2"></div>
+            </div>
+            <br> <hr>
         </article>
+    <br>
     </div>
+
     <div class="row-fluid">
         <article class="logo-footer col-sm-3 col-lg-3"> </article>
         <div class="row">

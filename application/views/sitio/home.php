@@ -1,7 +1,7 @@
  <!-- content -->
 <section class="container-fluid">
 <div class="row">
-<div class="content col-xs-12 col-md-9 col-lg-9 ">
+<div class="content col-xs-12 col-md-9 col-lg-9 " style="max-width:1366px;">
     <!-- Slider -->
     <div class="container-fluid">
                 <!-- Slider -->
